@@ -10,7 +10,7 @@ alt="Nibla-04" /> </p>
 
 - 💬 Ask me about **Java, SQL, Python**
 
-- 📫 How to reach me **perera.albn2002@gmail.com**
+- 📫 How to reach me **perera.albin2002@gmail.com**
 
 - 📄 Know about my experiences
 [https://drive.google.com/file/d/1JM2gbF2abJuj174mN1EO0hU1Ity7z3rY/view?usp=share_link](https://drive.google.com/file/d/1JM2gbF2abJuj174mN1EO0hU1Ity7z3rY/view?usp=share_link)
