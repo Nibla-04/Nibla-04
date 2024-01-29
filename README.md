@@ -3,14 +3,14 @@
 <img align="right" alt="coding" width="400"
 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img
-src="https://komarev.com/ghpvc/?username=ishan854&label=Profile%20views&color=0e75b6&style=flat"
-alt="ishan854" /> </p>
+src="https://komarev.com/ghpvc/?username=Nibla-04&label=Profile%20views&color=0e75b6&style=flat"
+alt="Nibla-04" /> </p>
 
 - 🌱 I’m currently Working on **Code Practice**
 
 - 💬 Ask me about **Java, SQL, Python**
 
-- 📫 How to reach me **srivastava.ishan854@gmail.com**
+- 📫 How to reach me **perera.albn2002@gmail.com**
 
 - 📄 Know about my experiences
 [https://drive.google.com/file/d/1JM2gbF2abJuj174mN1EO0hU1Ity7z3rY/view?usp=share_link](https://drive.google.com/file/d/1JM2gbF2abJuj174mN1EO0hU1Ity7z3rY/view?usp=share_link)
@@ -68,13 +68,13 @@ src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
 alt="spring" width="40" height="40"/> </a> </p><br>
 
 <p><img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan854&show_icons=true&locale=en&layout=compact"
-alt="ishan854" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Nibla-04&show_icons=true&locale=en&layout=compact"
+alt="Nibla-04" /></p>
 
 <p>&nbsp;<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=ishan854&show_icons=true&locale=en"
-alt="ishan854" /></p>
+src="https://github-readme-stats.vercel.app/api?username=Nibla-04&show_icons=true&locale=en"
+alt="Nibla-04" /></p>
 
 <p><img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=ishan854&"
-alt="ishan854" /></p>
+src="https://github-readme-streak-stats.herokuapp.com/?user=Nibla-04&"
+alt="Nibla-04" /></p>
